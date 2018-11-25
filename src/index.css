@@ -1,0 +1,39 @@
+/* .error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.success {
+    color: black;
+    background: lightgreen;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+} */
+
+.wr-button {
+  margin-right: 20px;
+}
+
+.positive-wr {
+  color: green;
+}
+
+.negative-wr {
+  color: red;
+}
+
+.margin-t-1 {
+  margin-top: 1rem;
+}
+
+.deck-data {
+  font-size: 24px;
+}
